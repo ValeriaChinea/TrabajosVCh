@@ -1,0 +1,96 @@
+* { font-family:georgia;
+}
+
+body{
+background-color:FFCCCC;
+background-image:url("fondo.png");
+}
+
+
+#Izquierda img{
+height:150px;
+width:150px;
+margin-left:50px;
+margin-right:50px;
+}
+
+
+a{
+margin-top:5px;
+margin-bottom:5px;
+padding-top:5px;
+padding-bottom:5px;
+padding-left:10px;
+padding-right:10px;
+display:block;
+text-decoration:none;
+background-color:#FCF3CF;
+color:#B03A2E ;}
+
+#Izquierda{ 
+float:left;
+width:20%;
+margin-top:30px;
+padding:20px;
+position:fixed;
+background-color:#E59866;
+border:groove;
+border-color:#A93226;
+
+}
+
+#Derecha{
+float:right;
+width:70%;
+margin-bottom:20px;
+margin-top:30px;
+padding:20px;
+background-color:#FCF3CF;
+border:groove;
+border-color:#A93226;
+}
+
+h1{
+	color:#E74C3C;}
+	
+h2{
+	color:#DC7633  ;
+	background-color:#F9E79F;
+}
+
+h3{
+	font-family:georgia;
+	color:gray;
+}
+
+#Redes img{
+width:50px;
+height:50px;
+
+}
+
+	
+
+.menu:hover {
+	background-color: #E6B0AA;
+color: white; }
+
+td img{
+	width:120px;
+	height:120px;
+	}
+	
+	
+	#Redes img,#Izquierda img,img{
+    border:groove;
+    border-color:#FAA6A6;
+    border-radius:35px;
+    background-color:#E59866;
+	border-color:#A93226;
+	}
+		
+
+.activo {
+	background-color: #CB4335;
+	color: #F39C12;
+}
